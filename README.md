@@ -1,6 +1,6 @@
 # iqdb for Koishi
 
-**Koishi iqdb 搜图插件**（`koishi-plugin-iqdb` ~~征名启事~~）是一个为[koishi](https://github.com/koishijs/koishi)设计的使用<iqdb.org>进行搜图的插件。
+**Koishi iqdb 搜图插件**（`koishi-plugin-iqdb` ~~征名启事~~）是一个为[koishi](https://github.com/koishijs/koishi)设计的使用<http://iqdb.org>进行搜图的插件。
 
 ## 安装
 
