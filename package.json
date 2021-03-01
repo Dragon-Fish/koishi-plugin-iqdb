@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-iqdb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iqdb.org search plugin for koishi",
   "main": "index.js",
   "repository": "https://github.com/Dragon-Fish/koishi-plugin-iqdb.git",
