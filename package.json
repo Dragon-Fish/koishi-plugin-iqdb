@@ -1,0 +1,13 @@
+{
+  "name": "koishi-plugin-iqdb",
+  "version": "0.0.1",
+  "description": "iqdb.org search plugin for koishi",
+  "main": "index.js",
+  "repository": "https://github.com/Dragon-Fish/koishi-plugin-iqdb.git",
+  "author": "Dragon-Fish <824399619@qq.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "iqdb-client": "^1.0.3",
+    "koishi-utils": "^4.0.1"
+  }
+}
