@@ -24,7 +24,6 @@ function apply(koishi, pluginOpt) {
       }
 
       let url = extractImages(finalImage)
-      console.log(url)
       if (url.length < 1) return image ? '没有检测到图片' : null
       if (url.length > 1) return '图片数量过多'
 
@@ -46,7 +45,6 @@ function extractImages(message) {
 
 async function makeSearch(url, options) {
   const res = await searchPic(url, { lib: 'www' })
-  console.log(res)
   if (res.ok || (res.data && res.data.length > 1)) {
     let data = res.data[1]
     let { head, sourceUrl, img, type, source } = data
