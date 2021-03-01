@@ -44,3 +44,7 @@ npm install koishi-plugin-iqdb
 类型：`Number`
 
 默认：`1`
+
+## 预览
+
+![iqdb_sample.jpg](https://i.loli.net/2021/03/01/XhmxIgc97be5R1k.jpg)
