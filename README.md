@@ -1,3 +1,5 @@
+> 💡**停止维护**：本插件已作为官方插件的一部分提供，请改用 [koishi-plugin-image-search](https://koishi.js.org/plugins/other/image-search.html)
+
 # iqdb for Koishi
 
 **Koishi iqdb 搜图插件**（`koishi-plugin-iqdb` ~~征名启事~~）是一个为[koishi](https://github.com/koishijs/koishi)设计的使用<http://iqdb.org>进行搜图的插件。
